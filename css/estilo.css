@@ -49,12 +49,6 @@ header {
     border-left: 3px solid purple;
 }
 
-.links a:hover {
-    color: black;
-    background-color: blue;
-    margin: 30px;
-    font-size: 200%;
-}
 
 
 
